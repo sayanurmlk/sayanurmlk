@@ -13,7 +13,7 @@
 👨‍🎓 16 y.o. | Freelancer & student at **IT Step Academy**  
 🌍 English level: **Upper-Intermediate (B2)**  
 🎯 Passionate about **web development**, **backend engineering**, and **learning new technologies**  
-📲 Telegram: [@dosherakxxxx](https://t.me/dosherakxxxx)
+📲 Telegram: [@sanoevw](https://t.me/sanoevw)
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## 📫 Connect With Me
 
-- 💬 Telegram: [@dosherakxxxx](https://t.me/dosherakxxxx)  
+- 💬 Telegram: [@sanoevw](https://t.me/sanoevw)  
 - 📸 Instagram: [@sanoevwkkcrypt](https://instagram.com/sanoevwkkcrypt)
 
 ---
