@@ -28,6 +28,8 @@
 ## 🤝 Team Projects
 
 - 🌐 Mery-[Mery](https://mery.kz/)
+- 🌐 RakhatCofee-[RakhatCoffe](https://rakhatcoffee.kz)
+- 🌐 RakhatFlowers-[RakhatFlowers](https://rakhatflowers.kz/)
 ---
 
 ## ⚙️ Tech Stack
