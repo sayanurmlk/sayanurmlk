@@ -20,6 +20,9 @@
 ## 🚀 Personal Projects
 
 - 🌐 Cvety.astana.kz-[Cvety Astana](https://cvetyastana-kz.kz/)(First project)
+- 🌐 NurMebel-[NurMebel](https://nurmebel.netlify.app/)
+- 🌐 KaraBalyk-[KaraBalyk](https://karabalyk-astana.netlify.app/)
+- 
 ---
 
 ## 🤝 Team Projects
