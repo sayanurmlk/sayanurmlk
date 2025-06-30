@@ -19,14 +19,12 @@
 
 ## 🚀 Personal Projects
 
-*(projects info coming soon)*
-
+- 🌐 Cvety.astana.kz-[Cvety Astana](https://cvetyastana-kz.kz/)(First project)
 ---
 
 ## 🤝 Team Projects
 
-*(team projects info coming soon)*
-
+- 🌐 Mery-[Mery](https://mery.kz/)
 ---
 
 ## ⚙️ Tech Stack
